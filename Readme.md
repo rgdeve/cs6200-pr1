@@ -207,7 +207,7 @@ internet. Starter code is provided inside of the transfer directory.  Once you
 have completed your programs inside this directory, you may submit it with the
 command
 
-Your server should not stop after a single transfer, but should continue accepting 
+Your server should not stop after a single transfer, but should continue accepting
 and transferring files to other clients
 
 
@@ -398,7 +398,7 @@ The folder mtgf includes the same files described above except that object
 files gfclient.o and gfserver.o may be used in-place of your own
 implementations.  Source code is not provided because these files implement
 the protocol for Part 1.  Note: these are the binary files used by Bonnie.
-They are known *not to work* on Ubuntu versions other than 16.04.  They are
+They are known *not to work* on Ubuntu versions other than 18.04.  They are
 64 bit binaries (only).  If you are working on other platforms, you should
 be able to use your protocol implementation files from Part 1.
 
