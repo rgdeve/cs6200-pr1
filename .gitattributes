@@ -1,2 +1,2 @@
 # Set .txt files to always be line feed
-*.txt text eol=lf
+*.txt eol=lf
